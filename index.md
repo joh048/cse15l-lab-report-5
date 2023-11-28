@@ -22,19 +22,24 @@ Thank you for the help. It turns out the bug was caused from me not taking in ac
 
 ## Contents of each file before bug fix
 > **RomanToInt.java**
+
 <img width="328" alt="image" src="https://github.com/joh048/cse15l-lab-report-5/assets/146862219/9cf7cb94-bb29-4b0d-9b5f-2ce25ccbd82c">
 
 > **RomanToIntTests.java**
+
 <img width="346" alt="image" src="https://github.com/joh048/cse15l-lab-report-5/assets/146862219/22990ee2-fc77-4c39-9bf1-b09e5a7632e1">
 
 > **test.sh**
+
 <img width="655" alt="image" src="https://github.com/joh048/cse15l-lab-report-5/assets/146862219/14b6f868-5bd5-4583-a6a1-f28c1f78a1cb">
 
 ## Full command line to trigger the bug
 > **Using JUnit and Bash script**
+
 <img width="478" alt="image" src="https://github.com/joh048/cse15l-lab-report-5/assets/146862219/d0727649-d1d1-4449-b561-c159be77d7f9">
 
 > **Using user inputs**
+
 <img width="512" alt="image" src="https://github.com/joh048/cse15l-lab-report-5/assets/146862219/62fe75d4-0cfa-4a59-abc5-b077a03b18a8">
 
 
