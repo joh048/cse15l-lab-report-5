@@ -31,11 +31,20 @@ Thank you for the help. It turns out the bug was caused from me not taking in ac
 <img width="655" alt="image" src="https://github.com/joh048/cse15l-lab-report-5/assets/146862219/14b6f868-5bd5-4583-a6a1-f28c1f78a1cb">
 
 ## Full command line to trigger the bug
+> **Using JUnit and Bash script**
 <img width="478" alt="image" src="https://github.com/joh048/cse15l-lab-report-5/assets/146862219/d0727649-d1d1-4449-b561-c159be77d7f9">
+
+> **Using user inputs**
+<img width="512" alt="image" src="https://github.com/joh048/cse15l-lab-report-5/assets/146862219/62fe75d4-0cfa-4a59-abc5-b077a03b18a8">
+
 
 ## Description on bug fix
 <img width="469" alt="image" src="https://github.com/joh048/cse15l-lab-report-5/assets/146862219/3938792d-0334-4dd4-a4ab-93d2698eb740">
 
 In order to fix the bug, you had to put the the line ```a += num;``` into a else loop and create an if loop ```if (a > num * 4) a -= num;```. The reason for this is because you only want to subtract the new number (num) from the current answer (a) when the individual roman numerals at each index is not in ascending order from right to left. If they are ascending from right to left, you should go into the else loop and add the numbers.
+
+# Part 2
+## Reflection
+Something that I learned in the second half of the quarter that really interested me was the bash scripts. I was relieved and also fascinated by how you can easily run several commands by just typing bash and the bash script name. Understanding how to work a bash script also openned my eyes on how programs like gradescope and the skill demo graders work. I felt like I learned something useful that I can apply to my future programming courses and projects.
 
 
